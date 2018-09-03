@@ -3,9 +3,7 @@ DomainManagement
 
 create domain &amp; domain management
 
-### Source Code
 
-http://pan.baidu.com/s/1pJK1Mgr
 
 ### License
 
